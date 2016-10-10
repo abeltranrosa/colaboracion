@@ -20,6 +20,8 @@ public class EjemploObjetos {
         System.out.println("color2 ="+otroSemaforo.dameColor());
         //añado un comentario
         
+        //añado otro comentario
+        
         
         
         
