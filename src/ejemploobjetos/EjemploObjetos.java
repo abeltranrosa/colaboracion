@@ -18,6 +18,7 @@ public class EjemploObjetos {
         otroSemaforo.ponColor("ambar");
         //visualizo de nuevo//
         System.out.println("color2 ="+otroSemaforo.dameColor());
+        //añado un comentario
         
         
         
